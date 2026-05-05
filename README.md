@@ -9,7 +9,7 @@ X
 main
 Xecho "# base2" >> README.md
 git init
-git add README.md
+git add README.mdX
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/WhitexWolf123/base2.git

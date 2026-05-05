@@ -2,8 +2,7 @@
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/WhitexWolf123/base2.git
+git branch -M mainSAXit remote add origin https://github.com/WhitexWolf123/base2.git
 git push -u origin DC
 main
 Xecho "# base2" >> README.mdecho "# base2" >> README.md
